@@ -1,1 +1,5 @@
 venv39/
+venv*/
+*.pkl
+*.html
+__pycache__/
