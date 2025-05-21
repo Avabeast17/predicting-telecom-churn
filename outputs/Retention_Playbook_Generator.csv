@@ -1,0 +1,6 @@
+Customer Segment,Risk Level,Key Traits,Recommended Action,Urgency
+"High Bill, Low Tenure",High,"MonthlyCharges > 80, Tenure < 6",Offer $10/month discount for 3 months + loyalty reward,Immediate
+"No Tech Support, Streaming User",Medium,"TechSupport == 'No', StreamingTV == 'Yes'",Proactive tech support outreach + 24hr resolution guarantee,Within 3 days
+"Monthly Contract, Senior Age Group",High,"Contract == 'Month-to-month', SeniorCitizen == 1",Upgrade to annual plan with senior-friendly setup support,Immediate
+"Multiple Add-ons, Dropped Phone Service",Medium,"MultipleServices == True, PhoneService == 'No'",Bundle discount on streaming + add phone service re-onboarding,Within 7 days
+"Recent Downgrade, High Internet Usage",High,"Recent downgrade, High InternetService",Offer personalized plan review + data boost incentive,Immediate
