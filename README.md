@@ -16,6 +16,8 @@ Deliver transparency using SHAP explainability for trust and clarity.
 
 Support business decision-making with targeted strategies.
 
+
+
 My Role
 Lead Data Analyst & AI Developer
 
@@ -24,12 +26,15 @@ Owned the full lifecycle: data wrangling, modeling, explainability, deployment p
 Built the logic behind the Retention Playbook and decision support visuals.
 
 
+
 Tools Used
 Python: scikit-learn, pandas, seaborn, matplotlib, SHAP
 
 Azure Machine Learning Studio (deployment environment)
 
 Power BI and Excel (for stakeholder visuals)
+
+
 
 Highlights
 Built a Random Forest model with 79% accuracy and strong recall for churners.
@@ -41,6 +46,7 @@ Created a Retention Playbook Generator that matches risky customer traits to ret
 Developed a logic-based framework that could power automated outreach, CRM integration, or targeted marketing.
 
 
+
 Key Visuals
 Feature importance plots (Random Forest & SHAP)
 
@@ -50,8 +56,11 @@ Excel-based Retention Playbook Table
 
 Real-world logic demo matching risky customers to actions
 
+
+
 Why This Matters
 Most churn models stop at prediction. This one goes further it gives businesses something to act on. It shows how data science can collaborate with customer success, marketing, and operations to actually move the needle.
+
 
 Next Steps
 Implement clustering to uncover hidden churn personas.
