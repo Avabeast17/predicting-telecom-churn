@@ -1,73 +1,57 @@
 Telecom Churn Prediction & Retention Playbook
-This project goes beyond just predicting which telecom customers will leave. It answers the deeper question: Why are they leaving—and how can we make them stay?
+This project doesn't just predict which telecom customers are likely to churn it digs into why they're leaving and how to keep them.
 
-Project Overview
-In a highly competitive telecom market, churn isn’t just a metric it’s a warning. Using explainable AI and predictive modeling, this case study turns raw customer data into actionable retention strategies. With precision, empathy, and a focus on impact, the project blends technical depth with business relevance.
-
-
-Objectives
-Predict customer churn with high recall.
-
-Identify key behavioral and billing patterns driving churn.
-
-Develop a practical, scalable Retention Playbook Generator.
-
-Deliver transparency using SHAP explainability for trust and clarity.
-
-Support business decision-making with targeted strategies.
+-Overview
+In a crowded telecom market, churn is more than a signal. This case study uses explainable AI and predictive modeling to turn customer data into clear, actionable retention strategies.
 
 
+-Goals
+Predict churn with high recall
 
-My Role
+Spot behavior and billing patterns tied to churn
+
+Build a scalable Retention Playbook Generator
+
+Use SHAP to keep insights transparent and trustworthy
+
+Give business teams a clear path to act
+
+
+-My Role
 Lead Data Analyst & AI Developer
-
-Owned the full lifecycle: data wrangling, modeling, explainability, deployment prep.
-
-Built the logic behind the Retention Playbook and decision support visuals.
+Handled everything from data prep to modeling and explainability. Designed the logic behind the playbook and visual tools for decision-makers.
 
 
-
-Tools Used
+-Tools
 Python: scikit-learn, pandas, seaborn, matplotlib, SHAP
 
-Azure Machine Learning Studio (deployment environment)
+Azure ML Studio: for future deployment
 
-Power BI and Excel (for stakeholder visuals)
-
-
-
-Highlights
-Built a Random Forest model with 79% accuracy and strong recall for churners.
-
-SHAP values exposed top drivers: high charges, short tenure, month-to-month contracts.
-
-Created a Retention Playbook Generator that matches risky customer traits to retention actions.
-
-Developed a logic-based framework that could power automated outreach, CRM integration, or targeted marketing.
+Power BI & Excel: for business-facing visuals
 
 
+-Key Wins
+Random Forest model hit 79% accuracy with strong churn recall
 
-Key Visuals
-Feature importance plots (Random Forest & SHAP)
+SHAP revealed top churn drivers: high charges, short tenure, and month-to-month contracts
 
-Heatmaps of churn vs. tenure & charges
+Built a Retention Playbook Generator that maps risk traits to actions
 
-Excel-based Retention Playbook Table
+Designed logic for future use in CRM, marketing, or auto-outreach systems
 
-Real-world logic demo matching risky customers to actions
+ Visuals
+Feature importance (SHAP + Random Forest)
+
+Heatmaps: churn vs. tenure & charges
+
+Excel playbook for retention strategies
+
+Action-matching demo for at-risk customers
 
 
+Why It Matters
+Most churn models stop at prediction. This one gives teams something they can act on bridging the gap between data science and real business action.
 
-Why This Matters
-Most churn models stop at prediction. This one goes further it gives businesses something to act on. It shows how data science can collaborate with customer success, marketing, and operations to actually move the needle.
 
-
-Next Steps
-Implement clustering to uncover hidden churn personas.
-
-Deploy the Retention Playbook into a dashboard interface.
-
-Expand model with real-time usage data and sentiment analysis.
-
-License
-This project is open-source for educational and demo purposes. Attribution appreciated
+ License
+Open-source for learning and demos. Attribution always appreciated.
